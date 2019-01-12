@@ -1,4 +1,4 @@
 # INASystem
 INA test sytem
 
-网络分析亿型号：
+网络分析仪器型号：
